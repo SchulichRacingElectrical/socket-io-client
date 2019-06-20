@@ -21,7 +21,7 @@ class App extends Component {
               ? <p>
                 {response}
               </p>
-              : <p>Loading...</p>}
+              : <p>Waiting for data...</p>}
         </div>
     );
   }
